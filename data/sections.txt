@@ -1,0 +1,136 @@
+More Control Flow Tools / break and continue Statements, and else Clauses on Loops
+'Whetting Your Appetite'
+Using the Python Interpreter
+Using the Python Interpreter / Invoking the Interpreter
+Using the Python Interpreter / Invoking the Interpreter / Argument Passing
+Using the Python Interpreter / Invoking the Interpreter / Interactive Mode
+Using the Python Interpreter / The Interpreter and Its Environment
+Using the Python Interpreter / The Interpreter and Its Environment / Source Code Encoding
+An Informal Introduction to Python
+An Informal Introduction to Python / Using Python as a Calculator
+An Informal Introduction to Python / Using Python as a Calculator / Numbers
+An Informal Introduction to Python / Using Python as a Calculator / Text
+An Informal Introduction to Python / Using Python as a Calculator / Lists
+An Informal Introduction to Python / First Steps Towards Programming
+More Control Flow Tools
+More Control Flow Tools / if Statements
+More Control Flow Tools / for Statements
+More Control Flow Tools / The range() Function
+More Control Flow Tools / pass Statements
+More Control Flow Tools / match Statements
+More Control Flow Tools / Defining Functions
+More Control Flow Tools / More on Defining Functions
+More Control Flow Tools / More on Defining Functions / Default Argument Values
+More Control Flow Tools / More on Defining Functions / Keyword Arguments
+More Control Flow Tools / More on Defining Functions / Special parameters
+More Control Flow Tools / More on Defining Functions / Special parameters / Positional-or-Keyword Arguments
+More Control Flow Tools / More on Defining Functions / Special parameters / Positional-Only Parameters
+More Control Flow Tools / More on Defining Functions / Special parameters / Keyword-Only Arguments
+More Control Flow Tools / More on Defining Functions / Special parameters / Function Examples
+More Control Flow Tools / More on Defining Functions / Special parameters / Recap
+More Control Flow Tools / More on Defining Functions / Arbitrary Argument Lists
+More Control Flow Tools / More on Defining Functions / Unpacking Argument Lists
+More Control Flow Tools / More on Defining Functions / Lambda Expressions
+More Control Flow Tools / More on Defining Functions / Documentation Strings
+More Control Flow Tools / More on Defining Functions / Function Annotations
+More Control Flow Tools / Intermezzo: Coding Style
+Data Structures
+Data Structures / More on Lists
+Data Structures / More on Lists / Using Lists as Stacks
+Data Structures / More on Lists / Using Lists as Queues
+Data Structures / More on Lists / List Comprehensions
+Data Structures / More on Lists / Nested List Comprehensions
+Data Structures / The del statement
+Data Structures / Tuples and Sequences
+Data Structures / Sets
+Data Structures / Dictionaries
+Data Structures / Looping Techniques
+Data Structures / More on Conditions
+Data Structures / Comparing Sequences and Other Types
+Modules
+Modules / More on Modules
+Modules / More on Modules / Executing modules as scripts
+Modules / More on Modules / The Module Search Path
+Modules / More on Modules / "Compiled" Python files
+Modules / Standard Modules
+Modules / The dir() Function
+Modules / Packages
+Modules / Packages / Importing * From a Package
+Modules / Packages / Intra-package References
+Modules / Packages / Packages in Multiple Directories
+Input and Output
+Input and Output / Fancier Output Formatting
+Input and Output / Fancier Output Formatting / Formatted String Literals
+Input and Output / Fancier Output Formatting / The String format() Method
+Input and Output / Fancier Output Formatting / Manual String Formatting
+Input and Output / Fancier Output Formatting / Old string formatting
+Input and Output / Reading and Writing Files
+Input and Output / Reading and Writing Files / Methods of File Objects
+Input and Output / Reading and Writing Files / Saving structured data with json
+Errors and Exceptions
+Errors and Exceptions / Syntax Errors
+Errors and Exceptions / Exceptions
+Errors and Exceptions / Handling Exceptions
+Errors and Exceptions / Raising Exceptions
+Errors and Exceptions / Exception Chaining
+Errors and Exceptions / User-defined Exceptions
+Errors and Exceptions / Defining Clean-up Actions
+Errors and Exceptions / Predefined Clean-up Actions
+Errors and Exceptions / Raising and Handling Multiple Unrelated Exceptions
+Errors and Exceptions / Enriching Exceptions with Notes
+Classes
+Classes / A Word About Names and Objects
+Classes / Python Scopes and Namespaces
+Classes / Python Scopes and Namespaces / Scopes and Namespaces Example
+Classes / A First Look at Classes
+Classes / A First Look at Classes / Class Definition Syntax
+Classes / A First Look at Classes / Class Objects
+Classes / A First Look at Classes / Instance Objects
+Classes / A First Look at Classes / Method Objects
+Classes / A First Look at Classes / Class and Instance Variables
+Classes / Random Remarks
+Classes / Inheritance
+Classes / Inheritance / Multiple Inheritance
+Classes / Private Variables
+Classes / Odds and Ends
+Classes / Iterators
+Classes / Generators
+Classes / Generator Expressions
+Brief Tour of the Standard Library
+Brief Tour of the Standard Library / Operating System Interface
+Brief Tour of the Standard Library / File Wildcards
+Brief Tour of the Standard Library / Command Line Arguments
+Brief Tour of the Standard Library / Error Output Redirection and Program Termination
+Brief Tour of the Standard Library / String Pattern Matching
+Brief Tour of the Standard Library / Mathematics
+Brief Tour of the Standard Library / Internet Access
+Brief Tour of the Standard Library / Dates and Times
+Brief Tour of the Standard Library / Data Compression
+Brief Tour of the Standard Library / Performance Measurement
+Brief Tour of the Standard Library / Quality Control
+Brief Tour of the Standard Library / Batteries Included
+Brief Tour of the Standard Library - Part II
+Brief Tour of the Standard Library - Part II / Output Formatting
+Brief Tour of the Standard Library - Part II / Templating
+Brief Tour of the Standard Library - Part II / Working with Binary Data Record Layouts
+Brief Tour of the Standard Library - Part II / Multi-threading
+Brief Tour of the Standard Library - Part II / Logging
+Brief Tour of the Standard Library - Part II / Weak References
+Brief Tour of the Standard Library - Part II / Tools for Working with Lists
+Brief Tour of the Standard Library - Part II / Decimal Floating-Point Arithmetic
+Virtual Environments and Packages
+Virtual Environments and Packages / Introduction
+Virtual Environments and Packages / Creating Virtual Environments
+Virtual Environments and Packages / Managing Packages with pip
+What Now?
+Interactive Input Editing and History Substitution
+Interactive Input Editing and History Substitution / Tab Completion and History Editing
+Interactive Input Editing and History Substitution / Alternatives to the Interactive Interpreter
+Floating-Point Arithmetic: Issues and Limitations
+Floating-Point Arithmetic: Issues and Limitations / Representation Error
+Appendix
+Appendix / Interactive Mode
+Appendix / Interactive Mode / Error Handling
+Appendix / Interactive Mode / Executable Python Scripts
+Appendix / Interactive Mode / The Interactive Startup File
+Appendix / Interactive Mode / The Customization Modules
