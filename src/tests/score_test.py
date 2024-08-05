@@ -1,7 +1,7 @@
 import unittest
 
-from src.score import Score
-from src.model import Word
+from search.score import Score
+from search.model import Word
 
 class TestScore(unittest.TestCase):
 

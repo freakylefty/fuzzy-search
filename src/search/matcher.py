@@ -1,9 +1,9 @@
 import re
-from src.model import StringScore, Item, ItemScore
-from src.score import Score
-from src.logger import Logger
+from search.model import StringScore, Item, ItemScore
+from search.score import Score
+from search.logger import Logger
 
-class Search:
+class Matcher:
 
     items: list[Item]
 
@@ -51,7 +51,7 @@ class Search:
                 break
         return currScore
 
-    def match(self, item, searchTerm) -> ItemScore:
+    def getBestMatchForItem(self, item, searchTerm) -> ItemScore:
         """
         Get score for the current item with the given search string
 
@@ -86,7 +86,7 @@ class Search:
             Logger.log('Score adjusted for unused characters: ' + str(score))
         return score
 
-    def search(self, text: str) -> Item | None:
+    def getBestMatch(self, text: str) -> Item | None:
         """
         Iterates through each item in the list and gets the score for each for the search term.
 
@@ -95,7 +95,7 @@ class Search:
         Logger.log('\nSearching\n')
         best: ItemScore = None
         for item in self.items:
-            result = self.match(item, text.lower())
+            result = self.getBestMatchForItem(item, text.lower())
             if (result != None and (best == None or result.score > best.score)):
                 best = result
         if (best != None):

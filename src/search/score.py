@@ -1,5 +1,5 @@
 import math
-from src.model import Word
+from search.model import Word
 
 class Score:
 

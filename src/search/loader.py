@@ -1,4 +1,4 @@
-from src.model import Item
+from search.model import Item
 
 class Loader:
     @staticmethod
